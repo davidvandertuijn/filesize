@@ -7,7 +7,7 @@ class Filesize
     /**
      * To Human Friendly.
      *
-     * @param int $iBytes
+     * @param int    $iBytes
      * @param string $sForceUnit
      * @param string $sFormat
      * @param string $sStandard
