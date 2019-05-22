@@ -3,6 +3,7 @@
 <a href="https://packagist.org/packages/davidvandertuijn/filesize"><img src="https://poser.pugx.org/davidvandertuijn/filesize/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/filesize"><img src="https://poser.pugx.org/davidvandertuijn/filesize/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/filesize"><img src="https://poser.pugx.org/davidvandertuijn/filesize/license.svg" alt="License"></a>
+<img src="https://github.styleci.io/repos/187700319/shield?style=flat" alt="StyleCI">
 
 ## Install
 
