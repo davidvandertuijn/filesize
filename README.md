@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/filesize"><img src="https://poser.pugx.org/davidvandertuijn/filesize/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/filesize"><img src="https://poser.pugx.org/davidvandertuijn/filesize/license.svg" alt="License"></a>
 
+![Filesize](https://cdn.davidvandertuijn.nl/github/filesize.png)
+
 ## Install
 
 ```
