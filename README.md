@@ -6,6 +6,10 @@
 
 ![Filesize](https://cdn.davidvandertuijn.nl/github/filesize.png)
 
+The Filesize tool allows users to determine the size of files in a variety of formats, providing crucial information for data management and analysis. Understanding file sizes is essential for effective storage planning, data transfer, and resource allocation.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 ## Install
 
 ```
